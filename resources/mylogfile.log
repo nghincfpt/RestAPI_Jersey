@@ -1,0 +1,4 @@
+2023-08-01 14:10:43 INFO  JerseyConfig:35 - This is an INFO message.
+2023-08-01 14:10:43 WARN  JerseyConfig:36 - This is a WARN message.
+2023-08-01 14:10:43 ERROR JerseyConfig:37 - This is an ERROR message.
+2023-08-01 14:10:43 INFO  JerseyConfig:43 - Jersey application started.

@@ -1,0 +1,6 @@
+
+2023-08-01 14:56:16 ERROR JerseyConfig:37 - Jersey application started.
+2023-08-01 16:11:47 INFO  ProductController:37 - Lấy hêt dữ liệu thành công
+2023-08-01 16:12:01 INFO  ProductController:45 - Thêm sản phẩm thành công
+2023-08-01 16:12:14 INFO  ProductController:72 - Cập nhật sản phẩm thành công
+2023-08-01 16:12:23 INFO  ProductController:54 - Xóa sản phẩm thành công

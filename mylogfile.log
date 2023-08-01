@@ -1,0 +1,38 @@
+2023-08-01 10:05:33 INFO  JerseyConfig:25 - Jersey application started.
+2023-08-01 10:07:40 INFO  JerseyConfig:25 - Jersey application started.
+2023-08-01 10:13:04 INFO  JerseyConfig:25 - Jersey application started.
+2023-08-01 10:18:59 INFO  JerseyConfig:26 - Jersey application started.
+2023-08-01 10:34:13 INFO  JerseyConfig:26 - Jersey application started.
+2023-08-01 10:38:55 INFO  JerseyConfig:26 - Jersey application started.
+2023-08-01 10:58:07 INFO  JerseyConfig:26 - Jersey application started.
+2023-08-01 11:04:33 INFO  JerseyConfig:26 - Jersey application started.
+2023-08-01 11:19:23 INFO  JerseyConfig:26 - Jersey application started.
+2023-08-01 11:25:32 INFO  JerseyConfig:38 - Jersey application started.
+2023-08-01 11:30:58 INFO  JerseyConfig:39 - Jersey application started.
+2023-08-01 11:35:11 INFO  JerseyConfig:38 - Jersey application started.
+2023-08-01 11:37:35 INFO  JerseyConfig:41 - Jersey application started.
+2023-08-01 11:38:57 INFO  JerseyConfig:42 - Jersey application started.
+2023-08-01 11:49:36 INFO  JerseyConfig:42 - Jersey application started.
+2023-08-01 11:52:07 INFO  JerseyConfig:42 - Jersey application started.
+2023-08-01 11:53:44 INFO  JerseyConfig:42 - Jersey application started.
+2023-08-01 11:57:54 INFO  JerseyConfig:38 - This is an INFO message.
+2023-08-01 11:57:54 WARN  JerseyConfig:39 - This is a WARN message.
+2023-08-01 11:57:54 ERROR JerseyConfig:40 - This is an ERROR message.
+2023-08-01 11:57:54 INFO  JerseyConfig:46 - Jersey application started.
+2023-08-01 12:00:23 INFO  JerseyConfig:37 - This is an INFO message.
+2023-08-01 12:00:23 WARN  JerseyConfig:38 - This is a WARN message.
+2023-08-01 12:00:23 ERROR JerseyConfig:39 - This is an ERROR message.
+2023-08-01 12:00:23 INFO  JerseyConfig:45 - Jersey application started.
+2023-08-01 12:03:11 INFO  JerseyConfig:37 - This is an INFO message.
+2023-08-01 12:03:11 WARN  JerseyConfig:38 - This is a WARN message.
+2023-08-01 12:03:11 ERROR JerseyConfig:39 - This is an ERROR message.
+2023-08-01 12:03:11 INFO  JerseyConfig:45 - Jersey application started.
+2023-08-01 14:03:48 INFO  JerseyConfig:37 - This is an INFO message.
+2023-08-01 14:03:48 WARN  JerseyConfig:38 - This is a WARN message.
+2023-08-01 14:03:48 ERROR JerseyConfig:39 - This is an ERROR message.
+2023-08-01 14:03:48 INFO  JerseyConfig:45 - Jersey application started.
+2023-08-01 14:04:51 INFO  JerseyConfig:37 - This is an INFO message.
+2023-08-01 14:04:51 WARN  JerseyConfig:38 - This is a WARN message.
+2023-08-01 14:04:51 ERROR JerseyConfig:39 - This is an ERROR message.
+2023-08-01 14:04:51 INFO  JerseyConfig:45 - Jersey application started.
+2023-08-01 14:07:14 2023-08-01 14:07:14 2023-08-01 14:07:14 2023-08-01 14:07:14 
